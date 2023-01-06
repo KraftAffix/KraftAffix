@@ -1,16 +1,14 @@
-### Hi there 👋
+I play games
 
-<!--
-**KraftAffix/KraftAffix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Social Links
+- [YouTube](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
+- [Twitch](https://twitch.tv/kraftaffix)
+- [Twitter](https://twitter.com/kraftaffix)
+- [Reddit](https://www.reddit.com/user/DerpGaming_YT)
+- [Carrd](https://kraftaffix.carrd.co)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Games
+- [Valorant](https://tracker.gg/valorant/profile/riot/TTV%20kraftaffix%234298/overview)
+- [Roblox](https://www.roblox.com/users/446872763/profile) _yes i do play roblox_
+- [Steam](https://steamcommunity.com/id/KraftAffix/)
+- [HoYoLAB](https://www.hoyolab.com/accountCenter/postList?id=101293298)
