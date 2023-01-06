@@ -8,7 +8,7 @@ I play games
 - [Carrd](https://kraftaffix.carrd.co)
 
 ## Games
-- [Valorant](https://tracker.gg/valorant/profile/riot/TTV%20kraftaffix%234298/overview)
+- [VALORANT](https://tracker.gg/valorant/profile/riot/TTV%20kraftaffix%234298/overview)
 - [Roblox](https://www.roblox.com/users/446872763/profile) _yes i do play roblox_
 - [Steam](https://steamcommunity.com/id/KraftAffix/)
 - [HoYoLAB](https://www.hoyolab.com/accountCenter/postList?id=101293298)
