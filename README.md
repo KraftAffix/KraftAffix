@@ -7,6 +7,8 @@ I play games
 - [Reddit](https://www.reddit.com/user/DerpGaming_YT)
 - [Carrd](https://kraftaffix.carrd.co)
 
+<a href="https://discord.com/users/421235623932723201"><img src="https://lanyard.cnrad.dev/api/421235623932723201" alt="Discord" /></a>
+
 ## Games
 - [Valorant](https://tracker.gg/valorant/profile/riot/TTV%20kraftaffix%234298/overview)
 - [Roblox](https://www.roblox.com/users/446872763/profile) _yes i do play roblox_
