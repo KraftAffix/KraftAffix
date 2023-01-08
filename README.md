@@ -4,7 +4,6 @@ I play games
 - [YouTube](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
 - [Twitch](https://twitch.tv/kraftaffix)
 - [Twitter](https://twitter.com/kraftaffix)
-- [Reddit](https://www.reddit.com/user/DerpGaming_YT)
 - [TikTok](https://www.tiktok.com/@kraftaffix) _wow i have one_
 
 ## Games
