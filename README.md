@@ -5,7 +5,7 @@ I play games
 - [Twitch](https://twitch.tv/kraftaffix)
 - [Twitter](https://twitter.com/kraftaffix)
 - [Reddit](https://www.reddit.com/user/DerpGaming_YT)
-- [Carrd](https://kraftaffix.carrd.co)
+- [TikTok](https://www.tiktok.com/@kraftaffix) _wow i have one_
 
 ## Games
 - [VALORANT](https://tracker.gg/valorant/profile/riot/TTV%20kraftaffix%234298/overview)
