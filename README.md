@@ -1,3 +1,6 @@
+Cris Joseph B. Baculio
+Media Arts student from ICENHS Sta. Filomena
+
 I play games
 
 ## Social Links
