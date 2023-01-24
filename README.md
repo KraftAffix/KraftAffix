@@ -1,13 +1,13 @@
 Cris Joseph B. Baculio \
 Media Arts student from ICENHS Sta. Filomena
 
+I play games
+
 About Me: \
 Studying the creation and of various forms of media, such as video, audio, and digital graphics. I'm learning about different software and technologies used in the field, as well as the artistic and creative aspects of media production.
 
 ## Softwares I use
 - [Filmora](https://filmora.wondershare.com)
-
-I play games
 
 ## Social Links
 - [YouTube](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
