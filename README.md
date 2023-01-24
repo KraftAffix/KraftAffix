@@ -1,5 +1,9 @@
 Cris Joseph B. Baculio
+
 Media Arts student from ICENHS Sta. Filomena
+
+About Me:
+Studying the creation and manipulation of various forms of media, such as video, audio, and digital graphics. I'm learning about different software and technologies used in the field, as well as the artistic and creative aspects of media production.
 
 I play games
 
