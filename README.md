@@ -10,9 +10,9 @@ Studying the creation and of various forms of media, such as video, audio, and d
 - [CapCut](https://www.capcut.com)
 - [DaVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve)
 
-**BENCHED**
-- - [Filmora](https://filmora.wondershare.com)
-- 
+**No Longer Using**
+- [Filmora](https://filmora.wondershare.com)
+
 ## Social Links
 - [YouTube](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
 - [Twitch](https://twitch.tv/kraftaffix)
