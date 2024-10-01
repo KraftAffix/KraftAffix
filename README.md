@@ -6,7 +6,7 @@ mostly playing gacha games
 
 About Me: \
 I love ♡ Shorekeeper ♡ from the game Wuthering Waves
-![]([https://tenor.com/view/wuwa-wuthering-waves-wutheringwaves-%E9%B3%B4%E6%BD%AE-the-shorekeeper-gif-17855650319601780728](https://github.com/KraftAffix/assets/blob/main/Shorekeeper.gif))
+![](https://github.com/KraftAffix/assets/blob/main/Shorekeeper.gif)
 ## Softwares I use
 - [CapCut](https://www.capcut.com)
 
