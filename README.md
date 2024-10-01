@@ -1,10 +1,11 @@
 Cris Joseph B. Baculio \
-Media Arts student from ICENHS Sta. Filomena
+Former Media Arts student from ICENHS Sta. Filomena
+STEM student from Saint Michael's College - Basic Education Department
 
-I play games
+mostly playing gacha games
 
 About Me: \
-Studying the creation and of various forms of media, such as video, audio, and digital graphics. I'm learning about different software and technologies used in the field, as well as the artistic and creative aspects of media production.
+I love Shorekeeper from the game WUthering Waves ♡
 
 ## Softwares I use
 - [CapCut](https://www.capcut.com)
