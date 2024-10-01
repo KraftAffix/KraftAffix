@@ -1,5 +1,5 @@
 Cris Joseph B. Baculio \
-Former Media Arts student from ICENHS Sta. Filomena
+Former Media Arts student from ICENHS Sta. Filomena \
 STEM student from Saint Michael's College - Basic Education Department
 
 mostly playing gacha games
