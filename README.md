@@ -5,8 +5,9 @@ STEM student from Saint Michael's College - Basic Education Department
 mostly playing gacha games
 
 About Me: \
-I love ♡ Shorekeeper ♡ from the game Wuthering Waves
+I love ♡ Shorekeeper ♡ from the game Wuthering Waves \
 ![](https://github.com/KraftAffix/assets/blob/main/Shorekeeper.gif)
+
 ## Softwares I use
 - [CapCut](https://www.capcut.com)
 
