@@ -1,4 +1,3 @@
-Cris Joseph B. Baculio \
 Former Media Arts student from ICENHS Sta. Filomena \
 STEM student from Saint Michael's College - Basic Education Department
 
