@@ -5,6 +5,7 @@ mostly playing gacha games
 
 About Me: \
 local internet gremlin that plays Wuthering Waves
+
 ![Discord Profile](https://i.imgur.com/VGPhDaA.gif)
 
 ## Softwares I use
