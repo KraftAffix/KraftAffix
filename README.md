@@ -8,7 +8,7 @@ local internet gremlin that plays Wuthering Waves
 
 ![Discord Profile](https://i.imgur.com/VGPhDaA.gif)
 
-![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,group,badges,games)
+![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,badges,games)
 
 ## Softwares I use
 - [CapCut](https://www.capcut.com)
