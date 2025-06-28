@@ -11,7 +11,7 @@ local internet gremlin that plays Wuthering Waves
 ![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,badges,games)
 
 ## Softwares I use
-- [CapCut](https://www.capcut.com)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 ## Socials
 - Discord - kraftaffix
