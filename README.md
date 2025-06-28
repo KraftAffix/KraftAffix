@@ -15,8 +15,10 @@ local internet gremlin that plays Wuthering Waves
 
 ## Socials
 - Discord - kraftaffix
-- Carrd - [kraftaffix](https://kraftaffix.carrd.co/)
+- Website - [kraftaffix](https://kraftaffix.vercel.app/)
 - YouTube - [kraftaffix](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
 - Twitch - [kraftaffix](https://twitch.tv/kraftaffix)
+- Kick - [kraftaffox](https://kick.com/kraftaffix)
 - Twitter - [kraftaffix](https://twitter.com/kraftaffix)
 - Steam - [Fantia](https://steamcommunity.com/id/KraftAffix/)
+- AniList - [KraftAffix](https://anilist.co/user/KraftAffix/)
