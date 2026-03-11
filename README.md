@@ -4,7 +4,7 @@ STEM student from Saint Michael's College - Basic Education Department
 mostly playing gacha games
 
 About Me: \
-local internet gremlin that plays Wuthering Waves
+local internet gremlin that plays Arknights: Endfield
 
 ![Discord Profile](https://i.imgur.com/VGPhDaA.gif)
 
