@@ -6,19 +6,15 @@ mostly playing gacha games
 About Me: \
 local internet gremlin that plays Arknights: Endfield
 
-![Discord Profile](https://i.imgur.com/VGPhDaA.gif)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G841VED)
 
 ![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,badges,games)
 
 ## Softwares I use
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- [Wondershare Filmora 15]([https://www.blackmagicdesign.com/products/davinciresolve](https://filmora.wondershare.com/))
 
 ## Socials
-- Discord - kraftaffix
 - Website - [kraftaffix](https://kraftaffix.vercel.app/)
 - YouTube - [kraftaffix](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
 - Twitch - [kraftaffix](https://twitch.tv/kraftaffix)
-- Kick - [kraftaffox](https://kick.com/kraftaffix)
 - Twitter - [kraftaffix](https://twitter.com/kraftaffix)
-- Steam - [Fantia](https://steamcommunity.com/id/KraftAffix/)
-- AniList - [KraftAffix](https://anilist.co/user/KraftAffix/)
