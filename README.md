@@ -4,7 +4,7 @@ STEM student from Saint Michael's College - Basic Education Department
 mostly playing gacha games
 
 About Me: \
-local internet gremlin that plays Arknights: Endfield
+local internet gremlin that plays NIKKE: Goddess of Victory
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G841VED)
 
